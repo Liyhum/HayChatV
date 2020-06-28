@@ -1,0 +1,6 @@
+export const USERNAME = 'USERNAME'
+export const EMAILADD = 'EMAILADD'
+export const PASSWORD = 'PASSWORD'
+export const NAME = 'NAME'
+export const TELPADD = 'TELPADD'
+export const GETDATA = 'GETDATA'
